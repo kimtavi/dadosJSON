@@ -1,0 +1,43 @@
+[
+    {
+        "nome" : "calça jeans",
+        "tamanho" : 42,
+        "preço" : 139.99,
+        "imagem" : "img/teste.jpg"
+
+    },
+{
+    "nome" : "shorts jeans",
+        "tamanho" : 42,
+        "preço" : 99.99,
+        "imagem" : "img/teste.jpg"
+
+},
+{
+    "nome" : "camisa",
+        "tamanho" : "M,G",
+        "preço" : 50.99,
+        "imagem" : "img/teste.jpg"
+
+},
+{
+    "nome" : "top academia",
+        "tamanho" : "M,G",
+        "preço" : 35.99,
+        "imagem" : "img/teste.jpg"
+
+},
+     "nome" : "calça academia",
+     "tamanho" : "M,G",
+     "preço" : 99.99,
+     "imagem" : "img/teste.jpg"
+
+{
+     "nome" : "meia",
+     "tamanho" : 39,
+     "preço" : 20.99,
+     "imagem" : "img/teste.jpg"
+
+}
+
+]
